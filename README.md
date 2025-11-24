@@ -1,10 +1,11 @@
 ---
 
 # About this Project IS-6812 | Group 5 
+Thomas Beck | Whitney Bullock | Caleb Call 
 This repository contains highlights from our practice capstone project.  Our project focused on leveraging machine learning models to solve the real-world business problem for Home Credit.  The proejct will showcase the complete workflow from understanding the business problem, to completing exploratory data analysis, building of four different predictive models, and evaluating results.  The project demonstrates business value to Home Credit, being able to analyze their incomplete data, draw insights, and produce business use cases to better predict if a customer will default on the loan.  
 
 ---
-⭐ ## Highlights 
+## Highlights 
 - Business Problem
 
 - Solution to Business Problem
@@ -18,7 +19,7 @@ This repository contains highlights from our practice capstone project.  Our pro
 - Key Takeaways 
 
 
-🚩 Business Problem 
+## Business Problem 
 Home Credit’s operational model is fundamentally about financial inclusion. Loans are provided to populations with little or no credit history—groups often rejected by traditional banks. This creates a risk assessment challenge: evaluating repayment likelihood without standard credit scores.
 
 The core issue is information asymmetry. Strict approval criteria exclude creditworthy applicants, failing the corporate mission. Lenient criteria result in financial losses from defaults.
