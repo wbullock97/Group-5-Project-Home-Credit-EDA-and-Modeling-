@@ -1,6 +1,6 @@
 ---
 
-# About this Project IS-6812 | Group 5 
+# Home Credit Project IS-6812 | Group 5 
 
 ## Thomas Beck | Whitney Bullock | Caleb Call
 
